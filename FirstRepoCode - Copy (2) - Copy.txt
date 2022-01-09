@@ -12,4 +12,5 @@ master changes1
 online changes
 offlinechange1
 offlinechange2
+stash changes
 
